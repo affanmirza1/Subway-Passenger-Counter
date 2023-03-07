@@ -1,7 +1,8 @@
 # Subway Passenger Counter
 
 #Application Deployed on below url:
-https://main--mellow-taffy-7aae99.netlify.app/
+### Link
+- [Live 🔗](https://subwaypassengercounter1.netlify.app/)
 
 
 Simple Application using Javascript & HTML, CSS.
